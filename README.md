@@ -1,6 +1,6 @@
 ## !hola soy Josías porcel zambrana 👋
 
-<!--
+
 estudiante de ingeniería en sistemas  con interés en arquitectura de software 
 
 
