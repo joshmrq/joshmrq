@@ -1,9 +1,9 @@
-## Hi there 👋
+## !hola soy Josías porcel zambrana 👋
 
 <!--
-**joshmrq/joshmrq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+estudiante de ingeniería en sistemas  con interés en arquitectura de software 
 
-Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
